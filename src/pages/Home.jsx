@@ -59,7 +59,7 @@ function Home() {
           className="w-full max-w-xs sm:max-w-md md:max-w-lg lg:max-w-xl mb-10 px-4 z-10"
         >
           <img
-            src="/src/assets/logo+Slogan-light.png"
+            src="/Logo-Slogan-Light.png"
             alt="Logo MathCode Studio"
             className="w-full h-auto object-contain"
           />
